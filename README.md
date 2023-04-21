@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -    Mortgage Loan Calculator         |  -             |    |
-| 2 |  -  Machine Learninghttps://github.com/EnyonamAgbenorhevi/Mortgage-Loan-Calculator           |  -             |     https://github.com/EnyonamAgbenorhevi/Machine-Learning |
-| 3 |  -        Exploratory Data Analysis     |  -             |        |https://github.com/EnyonamAgbenorhevi/Exploratory-Analysis
+| 1 |  -    Mortgage Loan Calculator         |  - https://github.com/EnyonamAgbenorhevi/Mortgage-Loan-Calculator              |    |
+| 2 |  -         |  -             |     
+| 3 |  -            |  -             |        |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
